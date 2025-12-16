@@ -12,4 +12,3 @@ Notes
 - The dataset CSVs (`True.csv`, `fake.csv`) are expected alongside the notebook.
 - The notebook downloads some NLTK data on first run.
 
-If you want me to push this repo to GitHub, provide the repository URL (HTTPS) or grant access/token and I'll add the remote and push.
